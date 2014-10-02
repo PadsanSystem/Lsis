@@ -47,4 +47,3 @@ if (!defined("IN_FUSION")) { die("Access Denied"); }
 		</a>
 	</div>
 </div>
-<?php
