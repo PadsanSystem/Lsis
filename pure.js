@@ -3,5 +3,7 @@ var lib=function(s){
 	return sel;
 }
 var $ = function(el){
+	if(el==null)
+		rerurn false;
 	return lib(el);
 }
